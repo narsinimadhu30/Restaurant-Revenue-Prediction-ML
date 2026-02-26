@@ -1,12 +1,12 @@
 
 
-\# Restaurant Revenue Prediction
+# Restaurant Revenue Prediction
 
 
 
 
 
-\## Project Overview
+## Project Overview
 
 
 
@@ -20,11 +20,11 @@ The goal is to estimate the expected revenue of a restaurant based on structured
 
 
 
-\## Dataset Information
+## Dataset Information
 
 
 
-Dataset Link:- https://drive.google.com/file/d/1LjGoQqL6gjXG7MR-xrqtwm1PjClxu98y/view?usp=sharing
+**Dataset Link**:- https://drive.google.com/file/d/1LjGoQqL6gjXG7MR-xrqtwm1PjClxu98y/view?usp=sharing
 
 
 
@@ -45,7 +45,7 @@ Due to the relatively small dataset size, special care was taken to prevent over
 
 
 
-\## Workflow
+## Workflow
 
 
 
@@ -67,7 +67,7 @@ Due to the relatively small dataset size, special care was taken to prevent over
 
 
 
-\## Models Implemented
+## Models Implemented
 
 
 
@@ -83,7 +83,7 @@ Each model was evaluated and compared using regression metrics.
 
 
 
-\## Evaluation Metrics
+## Evaluation Metrics
 
 
 
@@ -91,51 +91,34 @@ The following metrics were used:
 
 
 
-\* MAE (Mean Absolute Error)
+* MAE (Mean Absolute Error)
 
-\* MSE (Mean Squared Error)
+* MSE (Mean Squared Error)
 
-\* RMSE (Root Mean Squared Error)
+* RMSE (Root Mean Squared Error)
 
-\* R² Score
-
-
+* R² Score
 
 
 
-\## Final Model Performance
+
+
+## Final Model Performance
 
 
 
-Average Revenue: ₹ 46,61,188
+* Average Revenue: ₹ 46,61,188
 
-RMSE: ₹ 6,74,445
+* RMSE: ₹ 6,74,445
 
-RMSE %: 12.28%
+* RMSE %: 12.28%
 
 
 
 This means the model's predictions are off by approximately 11% relative to the average revenue, which indicates good predictive performance for a dataset of this size.
 
 
-
-
-
-\## Key Learnings
-
-
-
-* &nbsp;Understanding regression fundamentals
-* &nbsp;Comparing multiple ML models
-* &nbsp;Interpreting business-focused error metrics
-* &nbsp;Handling small datasets carefully
-* &nbsp;Avoiding overfitting
-
-
-
-
-
-\## Tech Stack
+## Tech Stack
 
 
 
@@ -147,7 +130,7 @@ This means the model's predictions are off by approximately 11% relative to the 
 
 
 
-\## Future Improvements
+## Future Improvements
 
 
 
@@ -165,7 +148,7 @@ This means the model's predictions are off by approximately 11% relative to the 
 
 
 
-\## Conclusion
+## Conclusion
 
 
 
